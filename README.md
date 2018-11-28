@@ -1,6 +1,6 @@
 # Salesforce DX App
 
-Salesforce app for managing links displayed on a Lightning component. 
+Salesforce app for managing links displayed in a Lightning component. 
 
 Create records for the Link custom object. 
 
