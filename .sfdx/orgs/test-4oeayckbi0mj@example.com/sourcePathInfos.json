@@ -1,0 +1,932 @@
+[
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543390043293,
+            "changeTime": 1543390043293,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543390043293,
+            "changeTime": 1543390043293,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1543395043046,
+            "changeTime": 1543395043046,
+            "contentHash": "d36826f2967f12f10f6398e2799292d8d06e3499",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543393815855,
+            "changeTime": 1543393815855,
+            "contentHash": "d667da59f708129bdc8b8ba8f40e7506cf726b97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/applications/Links_Mgmt.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/applications/Links_Mgmt.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 619,
+            "modifiedTime": 1543393815856,
+            "changeTime": 1543393815856,
+            "contentHash": "9d4d1e746d5402e0fb5466e73367b45348704c31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543393816014,
+            "changeTime": 1543393816014,
+            "contentHash": "faf172ca4868f3d8920326a0f341f914b425f72e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543393816007,
+            "changeTime": 1543393816007,
+            "contentHash": "f7308315c2d07a540946f46ec62f07135c444ba8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory/LinkCategory.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory/LinkCategory.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1144,
+            "modifiedTime": 1543393816006,
+            "changeTime": 1543393816006,
+            "contentHash": "f9016ffddb959562a595e82b1e455f55f6ef3f34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory/LinkCategory.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory/LinkCategory.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543393816005,
+            "changeTime": 1543393816005,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory/LinkCategoryController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkCategory/LinkCategoryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 627,
+            "modifiedTime": 1543393816007,
+            "changeTime": 1543393816007,
+            "contentHash": "64a23ce174cb28f6996a31c21c778aa8c23e0d06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1543393816011,
+            "changeTime": 1543393816011,
+            "contentHash": "c9c76411078ccecf7477bf5a51999c9582218edc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1896,
+            "modifiedTime": 1543393816010,
+            "changeTime": 1543393816010,
+            "contentHash": "442364fc95488fba576315a1270bf4cd8ed1026e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543393816009,
+            "changeTime": 1543393816009,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1543393816010,
+            "changeTime": 1543393816010,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 287,
+            "modifiedTime": 1543393816011,
+            "changeTime": 1543393816011,
+            "contentHash": "e1fc140e8b6e82acaa879fa90c4b720f05726985",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkList/LinkListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2853,
+            "modifiedTime": 1543393816011,
+            "changeTime": 1543393816011,
+            "contentHash": "8853d6ed70b3c3389507df5eff1ebb1a1dd7c07e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListApp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543393816013,
+            "changeTime": 1543393816013,
+            "contentHash": "4883607035566ee8943ff0f5b5d86291a856d98d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListApp/LinkListApp.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListApp/LinkListApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 149,
+            "modifiedTime": 1543393816013,
+            "changeTime": 1543393816013,
+            "contentHash": "2907f3389613bfb1b2e849d312c921c7f3c16782",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListApp/LinkListApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListApp/LinkListApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543393816013,
+            "changeTime": 1543393816013,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543393816015,
+            "changeTime": 1543393816015,
+            "contentHash": "5569e50d0bc06d7b766d29cfd0d410ee9c413214",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListItem/LinkListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListItem/LinkListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1009,
+            "modifiedTime": 1543393816016,
+            "changeTime": 1543393816016,
+            "contentHash": "576296e12b078011515dcfe78c2a0533323a5b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListItem/LinkListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/aura/LinkListItem/LinkListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543393816015,
+            "changeTime": 1543393816015,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543393815865,
+            "changeTime": 1543393815865,
+            "contentHash": "bab22d20da2b8ef46504097be077f20b7e92043e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 615,
+            "modifiedTime": 1543393815862,
+            "changeTime": 1543393815862,
+            "contentHash": "e83dca7e7b31b889473aa86e2bab10103ac3aa8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543393815860,
+            "changeTime": 1543393815860,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1848,
+            "modifiedTime": 1543393815865,
+            "changeTime": 1543393815865,
+            "contentHash": "61968406ccd8148cecd953f720c8c7eed9151879",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController_Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/classes/LinkController_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543393815863,
+            "changeTime": 1543393815863,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543393815870,
+            "changeTime": 1543393815870,
+            "contentHash": "e779f5a586a6250511c8ae2e0fbadc2f6977003b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/flexipages/Links.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/flexipages/Links.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1098,
+            "modifiedTime": 1543393815868,
+            "changeTime": 1543393815868,
+            "contentHash": "1e2ebdbc8c4320ca5f0d7e27261797d7787f1e5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/flexipages/Links_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/flexipages/Links_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 500,
+            "modifiedTime": 1543393815870,
+            "changeTime": 1543393815870,
+            "contentHash": "ef7876497acde4f05f6e430ba9ce6035b6065fd7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543393815872,
+            "changeTime": 1543393815872,
+            "contentHash": "c624ccc7e7c602a71ca40196a93b1385a04744b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/layouts/Link__c-Link Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/layouts/Link__c-Link Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3032,
+            "modifiedTime": 1543393815873,
+            "changeTime": 1543393815873,
+            "contentHash": "df10b8bae9a3721838deb569b02ae41516f7ce6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543393815884,
+            "changeTime": 1543393815884,
+            "contentHash": "a052faa8ed161909c64f8f6c37cd0399eb3f078c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543393815888,
+            "changeTime": 1543393815888,
+            "contentHash": "dd76b3c946f3e7ea0795acf1e718e624891f3a51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/Link__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/Link__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2724,
+            "modifiedTime": 1543393815885,
+            "changeTime": 1543393815885,
+            "contentHash": "382e6610803a4d3f6ad86652a98b46c8fa3fd3fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1543393815887,
+            "changeTime": 1543393815887,
+            "contentHash": "f97298a4e0deb171ef913dff8bc0e3d86dbcdf3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1543393815885,
+            "changeTime": 1543393815885,
+            "contentHash": "cf0bf4ca0117341e4599b0b70fdebd9633918894",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 820,
+            "modifiedTime": 1543396512478,
+            "changeTime": 1543396512478,
+            "contentHash": "8a5b8ea0e077c641aa1cfea22ddc6a594694ce83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Icon__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Icon__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 480,
+            "modifiedTime": 1543393815887,
+            "changeTime": 1543393815887,
+            "contentHash": "1aa4f79b3311a717f854d5b9f3e39c5b6129e640",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Link__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1543393815887,
+            "changeTime": 1543393815887,
+            "contentHash": "27165ca0a8f3603b524ea9de69a1eedaf661cc5f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/fields/URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 352,
+            "modifiedTime": 1543393815887,
+            "changeTime": 1543393815887,
+            "contentHash": "66a72d01d385f188db3ea22395bc12c4496a83d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543393815888,
+            "changeTime": 1543393815888,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/objects/Link__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1543393815888,
+            "changeTime": 1543393815888,
+            "contentHash": "7c7dcc44f67a7181b9d95576d3dbbd6e642ba84d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543395043047,
+            "changeTime": 1543395043047,
+            "contentHash": "964a3e5f1e63969fa4710cee3fd9d0be67c26d70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/permissionsets/links_mgmt.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/permissionsets/links_mgmt.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1679,
+            "modifiedTime": 1543395043047,
+            "changeTime": 1543395043047,
+            "contentHash": "bb25c85fd5f26a5aa872080c4be0e60bc7ad74b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543395043043,
+            "changeTime": 1543395043043,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19593,
+            "modifiedTime": 1543395043043,
+            "changeTime": 1543395043043,
+            "contentHash": "a2986ad51d535e7e90ec9f30d2531be24536f23c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543393815989,
+            "changeTime": 1543393815989,
+            "contentHash": "fc397ac3f6d89d720a0fdcb775fc1f7221478b53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543393815989,
+            "changeTime": 1543393815989,
+            "contentHash": "49f876e953f32694c5b71081fffde364e4ba4c8b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543393815995,
+            "changeTime": 1543393815995,
+            "contentHash": "f73fe177be8cad470f7b14215c986026d8e8a8bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/README.md",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/README.md",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 576,
+            "modifiedTime": 1543393815990,
+            "changeTime": 1543393815990,
+            "contentHash": "29b12736912fdcac1b3ebaa98b95628732fe92f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543393815995,
+            "changeTime": 1543393815995,
+            "contentHash": "c5c3db2b3f7f28c5c835108d3472bc6de359d2fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.eot",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.eot",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 220192,
+            "modifiedTime": 1543393815991,
+            "changeTime": 1543393815991,
+            "contentHash": "28dffb689265b191c1064a32bb922f54ef2074c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 849730,
+            "modifiedTime": 1543393815993,
+            "changeTime": 1543393815993,
+            "contentHash": "9ad9f21edf9838b4c877961048a83f0fa9d240fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.ttf",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.ttf",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 220024,
+            "modifiedTime": 1543393815994,
+            "changeTime": 1543393815994,
+            "contentHash": "acfa45f6b0c091fcea23b05e262c94cd5c383338",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/fonts/sldsicon.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 220100,
+            "modifiedTime": 1543393815995,
+            "changeTime": 1543393815995,
+            "contentHash": "d0f107fa8d86d4944e4941a44b01fecb4be6b30e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/style.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font/slds-icons-font-master/style.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 59524,
+            "modifiedTime": 1543393815996,
+            "changeTime": 1543393815996,
+            "contentHash": "75d1ebdf3b28c412e1d68c26496ef33fc81ac7fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/staticresources/slds_icons_font.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1543393815895,
+            "changeTime": 1543393815895,
+            "contentHash": "3e7d44eb76587bd36a692e5fb90e03808d30fb1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543393816003,
+            "changeTime": 1543393816003,
+            "contentHash": "5ac29df605384e5d2c6762ea0622496a0c0c9312",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/tabs/Link__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/tabs/Link__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1543393816001,
+            "changeTime": 1543393816001,
+            "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/tabs/Links.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt/force-app/main/default/tabs/Links.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1543393816003,
+            "changeTime": 1543393816003,
+            "contentHash": "becbb900b10e0b099a994e4072b00772b3deb3e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ryan.cox/projects/sfdx/lightning-components/lightning-links-mgmt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1543398191430,
+            "changeTime": 1543398191430,
+            "contentHash": "59308ef1164ec40129ab812f5fef514b7ce547e7",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
