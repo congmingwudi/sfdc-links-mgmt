@@ -1,0 +1,30 @@
+<aura:component >
+    
+    <!-- input parameters --> 
+    <aura:attribute name="linkMap" type="Map" default="{}" required="true"/>
+    <aura:attribute name="category" type="String" required="true"/>
+    <aura:attribute name="categoryIcon" type="String" default="standard:scan_card" required="false"/>
+    <aura:attribute name="iconSize" type="String" required="false"/>
+    
+    <!-- handlers -->
+	<aura:handler name="init" value="{!this}" action="{!c.init}"/>
+    
+    <!-- attributes -->
+    <aura:attribute name="linkList" type="Link__c[]"/>
+    
+    <!-- card -->
+	<lightning:card title="{!v.category}" iconName="{!v.categoryIcon}" class="slds-card_boundary">
+        
+        <lightning:layout horizontalAlign="space" verticalAlign="center" multipleRows="true">
+            
+            <aura:iteration items="{!v.linkList}" var="link">
+                <lightning:layoutItem padding="around-medium">
+                    <c:LinkListItem link="{!link}" iconSize="{!v.iconSize}" />
+                </lightning:layoutItem>
+            </aura:iteration>
+            
+        </lightning:layout>
+        
+    </lightning:card>
+
+</aura:component>

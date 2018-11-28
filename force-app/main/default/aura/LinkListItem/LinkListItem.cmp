@@ -1,0 +1,23 @@
+<aura:component >
+    <!-- icons displayed here use the names from the Lightning Design System (LDS)
+      but instead of using SVG from LDS, uses font icons from here: https://github.com/ennoucas/slds-icons-font
+      see also: https://medium.com/@ennoucas/easier-way-to-work-with-salesforce-lightning-design-systems-icons-ba2726fcca1f
+    -->	
+    
+    <!-- input parameters -->
+    <aura:attribute name="link" type="Link__c" required="true"/>
+	<aura:attribute name="iconSize" type="String" required="false" default="24px"/>
+    
+	<lightning:layout verticalAlign="center">
+        <lightning:layoutItem class="slds-text-align_center"> 
+                     
+        	<a href='{!v.link.URL__c}' target='_blank'>
+        		<!-- ex. icon class: slds-icon-adduser -->
+                <i class="{!'slds-icon-' + v.link.Icon__c}" style="{!'font-size:' + v.iconSize}"/><br></br>
+                {!v.link.Name}
+            </a>
+            
+        </lightning:layoutItem>
+    </lightning:layout>
+
+</aura:component>

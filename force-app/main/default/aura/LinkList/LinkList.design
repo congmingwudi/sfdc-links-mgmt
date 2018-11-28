@@ -1,0 +1,6 @@
+<design:component>
+	<design:attribute name="titleLabel" label="Title" />
+    <design:attribute name="targetCategory" label="Category" />
+    <design:attribute name="categoryIcon" label="Category Icon" />
+    <design:attribute name="iconSize" label="Link Icon Size" />
+</design:component>

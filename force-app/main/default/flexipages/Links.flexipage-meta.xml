@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>categoryIcon</name>
+                <value>standard:scan_card</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>iconSize</name>
+                <value>40px</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>targetCategory</name>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>titleLabel</name>
+                <value>Links</value>
+            </componentInstanceProperties>
+            <componentName>LinkList</componentName>
+        </componentInstances>
+        <name>main</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>Links</masterLabel>
+    <template>
+        <name>flexipage:defaultAppHomeTemplate</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>

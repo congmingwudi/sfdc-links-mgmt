@@ -1,0 +1,1 @@
+Select Name, URL__c, Icon__c, Category__c, Active__c FROM Link__c

@@ -1,0 +1,59 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Link__c",
+                "referenceId": "Link__cRef1"
+            },
+            "Name": "Photography",
+            "URL__c": "http://photomistic.com",
+            "Icon__c": "custom38",
+            "Category__c": "Toolbox",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Link__c",
+                "referenceId": "Link__cRef2"
+            },
+            "Name": "Travel Planning",
+            "URL__c": "http://kayak.com",
+            "Icon__c": "custom20",
+            "Category__c": "Toolbox",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Link__c",
+                "referenceId": "Link__cRef3"
+            },
+            "Name": "Tech Support",
+            "URL__c": "http://geeksquad.com",
+            "Icon__c": "custom34",
+            "Category__c": "Company Links",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Link__c",
+                "referenceId": "Link__cRef4"
+            },
+            "Name": "Shipping",
+            "URL__c": "http://dhl.com",
+            "Icon__c": "custom98",
+            "Category__c": "Toolbox",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Link__c",
+                "referenceId": "Link__cRef5"
+            },
+            "Name": "Human Resources",
+            "URL__c": "http://workday.com",
+            "Icon__c": "custom19",
+            "Category__c": "Company Links",
+            "Active__c": true
+        }
+    ]
+}

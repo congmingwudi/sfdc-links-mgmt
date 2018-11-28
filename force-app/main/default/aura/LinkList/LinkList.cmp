@@ -1,0 +1,35 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes,flexipage:availableForAllPageTypes" access="global" controller="LinkController">
+
+    <!-- input parameters --> 
+    <aura:attribute name="titleLabel" type="String" default="Links" required="false"/>
+    <aura:attribute name="targetCategory" type="String" default="" required="false"/> <!-- if blank, all categories are displayed -->
+    <aura:attribute name="categoryIcon" type="String" default="standard:scan_card" required="false"/>    
+    <aura:attribute name="iconSize" type="String" default="40px" required="false"/> <!-- size of the link icon -->
+    
+    <!-- private attributes -->
+    <aura:attribute name="categoryList" type="String[]"/>
+    <aura:attribute name="linkMap" type="Map" default="{}"/>  
+        
+    <!-- import CSS and LDS icons 
+		 icons displayed use the names from the Lightning Design System (LDS)
+      	 but instead of using SVG from LDS, uses font icons from here: https://github.com/ennoucas/slds-icons-font
+		 these font icons are stored as a zip file in the org as a static resource
+         see also: https://medium.com/@ennoucas/easier-way-to-work-with-salesforce-lightning-design-systems-icons-ba2726fcca1f
+	-->
+    <ltng:require styles="{!$Resource.slds_icons_font + '/slds-icons-font-master/style.css'}"/>
+    
+    <!-- handlers -->
+    <aura:handler name="init" action="{!c.init}" value="{!this}"/>    
+    
+    <!-- card -->
+    <aura:attribute name="title" type="Aura.Component[]">
+        <b>{!v.titleLabel}</b>
+    </aura:attribute>
+        
+    <lightning:card title="{!v.title}" class="slds-p-around_small">
+        <aura:iteration items="{!v.categoryList}" var="category">
+            <c:LinkCategory linkMap="{!v.linkMap}" category="{!category}" categoryIcon="{!v.categoryIcon}" iconSize="{!v.iconSize}" />
+        </aura:iteration>
+    </lightning:card>
+    
+</aura:component>

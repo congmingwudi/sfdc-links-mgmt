@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Link__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Link__cs.json"
+        ]
+    }
+]
